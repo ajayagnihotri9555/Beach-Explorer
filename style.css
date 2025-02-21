@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f0f8ff;
+}
+header {
+    background: #0073e6;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 24px;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+.beach-card {
+    background: white;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.beach-card h2 {
+    color: #0073e6;
+}
+.beach-card p {
+    font-size: 14px;
+}
+.btn {
+    background: #0073e6;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
